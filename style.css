@@ -28,5 +28,8 @@ input{
     font-size: 2rem;
     color: white;
     background-color: rgb(161, 133, 133);
-    
+}
+img{
+    width: 70px;
+    height: 100px;
 }
